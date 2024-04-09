@@ -2,24 +2,25 @@
 
 Explore YouTube Content Analysis for Channel Optimization based on 2023 statistics. Gain insights into popular content topics, channel growth strategies, audience demographics, and revenue correlations.
 
----
 
 ## Situation
 YouTube ranked as the 2nd most popular social network in 2023 with 2.7 billion monthly users. This project analyzes strategies for channel growth and revenue on YouTube.
 
 ## Task
-1. Identify popular content topics.
-2. Analyze video upload impact.
-3. Assess content diversity effects.
-4. Explore audience demographics.
-5. Investigate revenue correlations.
+1. Identify popular content topics. 
+_Hypothesis:_ Top content topics: Entertainment, News, Education.
 
-## Hypothesis
-1. Top content topics: Entertainment, News, Education.
-2. More uploads -> more visibility.
-3. Niche focus enhances impact.
-4. US audience dominance.
-5. Subscribers/views -> higher remuneration.
+2. Analyze video upload impact.
+_Hypothesis:_ More uploads -> more visibility.
+
+3. Assess content diversity effects.
+_Hypothesis:_ Niche focus enhances impact.
+
+4. Explore audience demographics.
+_Hypothesis:_ US audience dominance.
+
+5. Investigate revenue correlations.
+_Hypothesis:_ Subscribers/views -> higher remuneration.
 
 ## Action
 1. Data collection.
